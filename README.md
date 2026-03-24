@@ -1,5 +1,9 @@
-<h1 align="center">Olá 👋, eu sou Cecília Lopes</h1>
+<h1 align="center">Hi👋, I'm Cecília Lopes</h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas no 2º período da CESAR School e Residente Tecnológica no Porto Digital. Sou movida por desafios que unem tecnologia, educação e impacto social.</h3>
+
+- 🌱 I’m currently learning **AWS cloud and Service now**
+
+- 📫 How to reach me **lopescecilia@gmail.com**
 
 - 🏆 Conquistas Recentes **Finalista do DemoDay (Porto Digital 2025): Projeto focado em "Tecnologia e Inovação a Serviço da Educação". 6ª Mostra TechDesign (CESAR School): Apresentação de solução tecnológica inovadora.**
 
